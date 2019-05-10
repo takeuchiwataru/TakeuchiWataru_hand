@@ -1,0 +1,11 @@
+MODEL_FILENAME = data/MODEL/teacher/00_body.x		# [0]体
+MODEL_FILENAME = data/MODEL/teacher/01_head.x		# [1]頭
+MODEL_FILENAME = data/MODEL/teacher/02_armR.x		# [2]右腕
+MODEL_FILENAME = data/MODEL/teacher/03_handR.x		# [3]右手
+MODEL_FILENAME = data/MODEL/teacher/04_armL.x		# [4]左腕
+MODEL_FILENAME = data/MODEL/teacher/05_handL.x		# [5]左手
+MODEL_FILENAME = data/MODEL/teacher/06_legR.x		# [6]右腿
+MODEL_FILENAME = data/MODEL/teacher/07_footR.x		# [7]右足
+MODEL_FILENAME = data/MODEL/teacher/08_legL.x		# [8]左腿
+MODEL_FILENAME = data/MODEL/teacher/09_footL.x		# [9]左足
+
